@@ -1,0 +1,9 @@
+[package]
+name = "sync-threadpool"
+version = "0.0.1"
+authors = ["Urs Schulz <github@ursschulz.de>"]
+license = "AGPL-3.0"
+description = "A synchronized threadpool allowing submission of new jobs only when a worker is idle."
+repository = "https://github.com/faulesocke/sync-threadpool"
+
+[dependencies]
